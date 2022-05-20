@@ -17,7 +17,6 @@ One advantage presented by ROC curves is that they aid us in finding a classific
 
 On the other hand, if our classifier is predicting whether someone has a terminal illness, we might be ok with a higher number of false positives (incorrectly diagnosing the illness), just to make sure that we don’t miss any true positives (people who actually have the illness).
 
-<br><br><br><br>
 ## ALGORITHM:
 1. Import Necessary Packages.
 2. Load the Data.
